@@ -1,2 +1,2 @@
 # hello-world
-gettint started repo
+getting started repo
